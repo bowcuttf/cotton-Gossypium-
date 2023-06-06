@@ -14,7 +14,7 @@ There are roughly fifty different species distributed naturally in Africa, Asia,
 <param ve-entity eid="Q719312" title="Gossypium">
 <param ve-image label="The New South" description="Thomas Nast, 1882"license="public domain" url="https://github.com/bowcuttf/cotton-Gossypium-/assets/135713941/2628531a-fbb0-43ff-8e36-38ade531378d)"license="public domain"url="https://www.loc.gov/pictures/item/2013648370/">
 
-<param ve-image url=“https://libguides.nybg.org/c.php?g=1003078&p=7264406“ label=“Cotton Ball” description=“” license=“”>
+<param ve-image url=“https://libguides.nybg.org/c.php?g=1003078&p=7264406“ label=“Cotton Ball” description=“Rice’s Seeds trade card ca. 1880” license=“public domain”>
 
                                        
 ## History 
