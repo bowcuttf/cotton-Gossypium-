@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Queen Cotton: An Intersectional Feminist Account"
+       title="Queen Cotton: An Intersectional Ecofeminist Account"
        author="Frederica Bowcutt"
        source-image="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
        banner="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
