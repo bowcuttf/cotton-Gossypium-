@@ -12,9 +12,8 @@
 There are roughly fifty different species distributed naturally in Africa, Asia, Australia, Central America, Mexico and South America most of which are shrubs or trees. The flowers resemble hollyhock flowers and come in yellow, red, or white.  Early taxonomists struggled to classify members of the genus Gossypium due to the extensive diversification into many varieties through artificial selection. In the first edition of Species Plantarum, Carl Linnaeus recognized three species in 1753: _G. herbaceum, G. barbadense_, and _G. arboreum_. Of Asian origin, G. herbaceum bears attractive yellow flowers with a purple spot near the base of each petal where it narrows to the attachment point. Of the cotton plants from India, it is the most important.  Sea Island cotton (_G. barbadense_) with its particularly long and soft hairs originated in the Andes and became widely grown in the West Indies and on islands off the coast of Georgia and North Carolina.  Several varieties of G. barbadense are referred to as Egyptian cottons, the cloth of which is prized for its silky softness. Tree cotton (_G. arboreum_) is native to Africa and grows up to 20 feet tall. Limited cultivation of this species occurs in India outside its native range.  Currently the most widely planted species, American upland cotton (G. hirsutum) originated in Central America and Mexico later became the dominant species grown in the American South. Linnaeus never actually saw any taxa from the Americas; his later description of American upland cotton was based on a written account not direct observation. 
 
 <param ve-entity eid="Q719312" title="Gossypium">
-<param ve-image url="https://sova.si.edu/details/NMAH.AC.1176?s=36&n=12&t=D&q=Beauty+contestants&i=42#ref713">
-<param ve-image label="The New South" description="Thomas Nast, 1882" license="public domain" url="https://www.loc.gov/pictures/item/2013648370/">
-
+<param ve-image url="https://ids.si.edu/ids/deliveryService?id=NMAH-AC1176-0000032">
+<param ve-image label="The New South" description="Thomas Nast,1882" license="public domain" url="https://www.loc.gov/pictures/item/2013648370/">
 <param ve-image url=“https://libguides.nybg.org/c.php?g=1003078&p=7264406“ label=“Cotton Ball” description=“Rice’s Seeds trade card ca. 1880” license=“public domain”>
 
 
