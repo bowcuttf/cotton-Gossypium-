@@ -33,13 +33,4 @@ After President Abraham Lincoln’s 1863 Emancipation Proclamation freed African
 When women attempted to speak out against civil rights abuses in the cotton-based political economic system, efforts to silence them repeatedly shifted. <span data-click-image-zoomto=""> </span>By the 20th century, cotton fabric marketers put objectified, young white women to work in support of a racialized and class-stratified cotton industry. Drawing from agricultural reports, archival research notes, historic photographs, letters, maps, political cartoons, and trade journals, I argue that, in addition to its role in maintaining racialized labor regimes, American cotton was used to promote heteronormativity in the service of capital accumulation. Simultaneously, gender essentialism was used to empower the fight against slavery and white supremacy.
 
 <param ve-video
-       id="f87wvXMa-Rk"
-       title="How to prepare mate">
-<param ve-video
-       vid="s6eEk3sLUTE"
-       title="British Queen Cotton 1944">
-
-also available at https://film.britishcouncil.org/resources/film-archive/queen-cotton (same video on vimeo: https://vimeo.com/41412449)
-<param ve-iframe src="https://archive.org/details/plantesusuellesd00sain/page/n13/mode/2up?view=theater&output=embed">
-
-
+       vid="s6eEk3sLUTE">
