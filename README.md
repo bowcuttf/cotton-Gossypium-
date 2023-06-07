@@ -12,9 +12,11 @@
 There are roughly fifty different species distributed naturally in Africa, Asia, Australia, Central America, Mexico and South America most of which are shrubs or trees. The flowers resemble hollyhock flowers and come in yellow, red, or white.  Early taxonomists struggled to classify members of the genus Gossypium due to the extensive diversification into many varieties through artificial selection. In the first edition of Species Plantarum, Carl Linnaeus recognized three species in 1753: _G. herbaceum, G. barbadense_, and _G. arboreum_. Of Asian origin, G. herbaceum bears attractive yellow flowers with a purple spot near the base of each petal where it narrows to the attachment point. Of the cotton plants from India, it is the most important.  Sea Island cotton (_G. barbadense_) with its particularly long and soft hairs originated in the Andes and became widely grown in the West Indies and on islands off the coast of Georgia and North Carolina.  Several varieties of G. barbadense are referred to as Egyptian cottons, the cloth of which is prized for its silky softness. Tree cotton (_G. arboreum_) is native to Africa and grows up to 20 feet tall. Limited cultivation of this species occurs in India outside its native range.  Currently the most widely planted species, American upland cotton (G. hirsutum) originated in Central America and Mexico later became the dominant species grown in the American South. Linnaeus never actually saw any taxa from the Americas; his later description of American upland cotton was based on a written account not direct observation. 
 
 <param ve-entity eid="Q719312" title="Gossypium">
-<param ve-image url="https://en.wikipedia.org/wiki/Cotton#/media/File:Greene_Co_Ga1941_Delano.jpg">
+
 <param ve-image url="https://ids.si.edu/ids/deliveryService?id=NMAH-AC1176-0000032">
 <span data-click-image-zoomto=""> </span>
+
+<param ve-image url="https://en.wikipedia.org/wiki/Cotton#/media/File:Greene_Co_Ga1941_Delano.jpg">
 <param ve-image url="https://digital.archives.alabama.gov/digital/collection/photo/id/3973">
 <param ve-image url="http://emuseum.brooksmuseum.org/objects/3071/attorney-ht-lockard-and-star-mckinney-crowned-king-and-q;jsessionid=18D0DF7B068006ABDA790E3E37D10F32">
 <param ve-image url="https://sweetgum.nybg.org/science/the-hand-lens/explore/narratives-details/?irn=7436#gallery">
