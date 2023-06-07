@@ -40,5 +40,5 @@ When women attempted to speak out against civil rights abuses in the cotton-base
 <param ve-video
        id="s6eEk3sLUTE"
        title="British Queen Cotton 1944">
-full url for this video: https://www.youtube.com/watch?v=s6eEk3sLUTE
+
 also available at https://film.britishcouncil.org/resources/film-archive/queen-cotton (same video on vimeo: https://vimeo.com/41412449)
