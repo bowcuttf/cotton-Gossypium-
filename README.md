@@ -37,6 +37,8 @@ When women attempted to speak out against civil rights abuses in the cotton-base
        title="How to prepare mate">
 <param ve-iframe src="https://archive.org/details/plantesusuellesd00sain/page/n13/mode/2up?view=theater&output=embed">
 
-<param ve-videoid="s6eEk3sLUTE"title="British Queen Cotton 1944">
+<param ve-video
+       id="s6eEk3sLUTE"
+       title="British Queen Cotton 1944">
 full url for this video: https://www.youtube.com/watch?v=s6eEk3sLUTE
 also available at https://film.britishcouncil.org/resources/film-archive/queen-cotton (same video on vimeo: https://vimeo.com/41412449)
