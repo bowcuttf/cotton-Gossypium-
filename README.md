@@ -14,6 +14,7 @@ There are roughly fifty different species distributed naturally in Africa, Asia,
 <param ve-entity eid="Q719312" title="Gossypium">
 <param ve-image url="https://en.wikipedia.org/wiki/Cotton#/media/File:Greene_Co_Ga1941_Delano.jpg">
 <param ve-image url="https://ids.si.edu/ids/deliveryService?id=NMAH-AC1176-0000032">
+<span data-click-image-zoomto=""> </span>
 <param ve-image url="https://digital.archives.alabama.gov/digital/collection/photo/id/3973">
 <param ve-image url="http://emuseum.brooksmuseum.org/objects/3071/attorney-ht-lockard-and-star-mckinney-crowned-king-and-q;jsessionid=18D0DF7B068006ABDA790E3E37D10F32">
 <param ve-image url="https://sweetgum.nybg.org/science/the-hand-lens/explore/narratives-details/?irn=7436#gallery">
