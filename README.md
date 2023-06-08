@@ -22,7 +22,7 @@ There are roughly fifty different species distributed naturally in Africa, Asia,
 <param ve-image label="The New South" description="Thomas Nast,1882" license="public domain" url="https://www.loc.gov/pictures/item/2013648370/">
 <param ve-image url=“https://libguides.nybg.org/c.php?g=1003078&p=7264406“ label=“Cotton Ball” description=“Rice’s Seeds trade card ca. 1880” license=“public domain”>
 
-
+<param ve-image url=“https://plants-jstor-org.evergreen.idm.oclc.org/fsi/img/size2/alukaplant/mo/phase_01/mo0007/mo-309037.jpg">
                                        
 ## History 
 
